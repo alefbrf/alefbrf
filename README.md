@@ -22,13 +22,13 @@
 
 ## Contatos
 
-<div align="center" style="margin: 40px">
-  <a href="https://www.linkedin.com/in/alefbrf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+<div>
   <a href = "mailto:aleffrade@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alefbrf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
 </div>
 
-<div>
+<div align="center" style="margin: 40px">
 <a href="https://github.com/AlefNix">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefNix&layout=compact&langs_count=7&theme=dracula" styel="width:50%"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlefNix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="50%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefNix&layout=compact&langs_count=7&theme=dracula" styel="width: 50%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlefNix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="width: 50%"/>
 </div>
