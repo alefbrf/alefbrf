@@ -5,6 +5,7 @@
 - 🔭 Atualmente estou trabalhando em desenvolver profissionalmente como Desenvolvedor
 - 🌱 Atualmente estou aprendendo HTML, CSS, SCSS, SASS, JavaScript, TypeScritp, Angular e NodeJs
 - ⚡ Curiosidade: Sou apaixonado por esse vasto mundo da programação e almejo ser melhor hoje do que ontem e melhor amanhã do que hoje
+- 🔧 Controle de versão: `Git e Github`
 
 
 ## Ferramentas e Tecnologias
@@ -22,8 +23,8 @@
 ## Contatos
 
 <div align="center" style="margin: 40px">
-<a href = "mailto:aleffrade@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/alefbrf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+  <a href="https://www.linkedin.com/in/alefbrf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+  <a href = "mailto:aleffrade@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <div>
