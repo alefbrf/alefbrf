@@ -2,7 +2,7 @@
 ## Meu nome é Alef Bryan!
 
 ## Sobre mim:
-- 🔭 Atualmente estou trabalhando crescer profissionalmente como Desenvolvedor
+- 🔭 Atualmente estou trabalhando em crescer profissionalmente como Desenvolvedor
 - 🌱 Atualmente estou aprendendo `HTML`, `CSS`, `SCSS`, `SASS`, `JavaScript`, `TypeScritp`, `Angular` e `NodeJs`
 - ⚡ Curiosidade: Sou apaixonado por esse vasto mundo da programação e almejo ser melhor hoje do que ontem e melhor amanhã do que hoje
 - 🔧 Controle de versão: `Git e Github`
