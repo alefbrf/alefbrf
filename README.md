@@ -3,7 +3,7 @@
 
 ## Sobre mim:
 - 🔭 Atualmente estou trabalhando em crescer profissionalmente como Desenvolvedor
-- 🌱 Atualmente estou aprendendo `HTML`, `CSS`, `SCSS`, `SASS`, `JavaScript`, `TypeScritp`, `Angular` e `NodeJs`
+- 🌱 Atualmente estou aprendendo `HTML`, `CSS`, `SCSS`, `SASS`, `JavaScript`, `TypeScritp`, `Angular`, `NodeJs` , `ReactJS`, `SQL`, `C#`, `.NET` e `ASP.NET` 
 - ⚡ Curiosidade: Sou apaixonado por esse vasto mundo da programação e almejo ser melhor hoje do que ontem e melhor amanhã do que hoje
 - 🔧 Controle de versão: `Git e Github`
 
@@ -18,6 +18,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
+          
 </div>
 
 ## Contatos
