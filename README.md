@@ -3,7 +3,7 @@
 
 ## Sobre mim:
 - 🔭 Atualmente estou trabalhando em crescer profissionalmente como Desenvolvedor
-- 🌱 Atualmente estou aprendendo `HTML`, `CSS`, `SCSS`, `SASS`, `JavaScript`, `TypeScritp`, `Angular`, `NodeJs` , `ReactJS`, `SQL`, `C#`, `.NET` e `ASP.NET` 
+- 🌱 Atualmente estou aprendendo `HTML`, `CSS`, `SCSS`, `SASS`, `JavaScript`, `TypeScritp`, `Angular`, `ReactJS`, `SQL`, `C#`, `.NET` e `ASP.NET` 
 - ⚡ Curiosidade: Sou apaixonado por esse vasto mundo da programação e almejo ser melhor hoje do que ontem e melhor amanhã do que hoje
 - 🔧 Controle de versão: `Git e Github`
 
