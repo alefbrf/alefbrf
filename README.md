@@ -1,12 +1,10 @@
-# 👋 Olá! Bem vindo ao meu perfil do GitHub.
+# 👋 Olá! Bem vindo ao meu perfil.
 ## Meu nome é Alef Bryan!
+## Desenvolvedor FullStack
 
 ## Sobre mim:
-- 🔭 Atualmente estou trabalhando em crescer profissionalmente como Desenvolvedor
-- 🌱 Atualmente estou aprendendo `HTML`, `CSS`, `SCSS`, `SASS`, `JavaScript`, `TypeScritp`, `Angular`, `ReactJS`, `SQL`, `C#`, `.NET` e `ASP.NET` 
+- 🌱 Domínio em `GIT`, `HTML`, `CSS`, `SCSS`, `SASS`, `JavaScript`, `TypeScritp`, `Angular`, `ReactJS`, `SQL`, `C#`, `.NET`, `ASP.NET`, `SQL`, `NoSQL` e `AWS`. 
 - ⚡ Curiosidade: Sou apaixonado por esse vasto mundo da programação e almejo ser melhor hoje do que ontem e melhor amanhã do que hoje
-- 🔧 Controle de versão: `Git e Github`
-
 
 ## Ferramentas e Tecnologias
 <div>
