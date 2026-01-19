@@ -3,7 +3,7 @@
 ## Desenvolvedor FullStack
 
 ## Sobre mim:
-- 🌱 Domínio em `GIT`, `HTML`, `CSS`, `SCSS`, `SASS`, `JavaScript`, `TypeScritp`, `Angular`, `ReactJS`, `SQL`, `C#`, `.NET`, `ASP.NET`, `SQL`, `NoSQL` e `AWS`. 
+- 🌱 Domínio em `GIT`, `HTML`, `CSS`, `SCSS`, `SASS`, `JavaScript`, `TypeScript`, `Angular`, `ReactJS`, `SQL`, `C#`, `.NET`, `ASP.NET`, `SQL`, `NoSQL` e `AWS`. 
 - ⚡ Curiosidade: Sou apaixonado por esse vasto mundo da programação e almejo ser melhor hoje do que ontem e melhor amanhã do que hoje
 
 ## Ferramentas e Tecnologias
